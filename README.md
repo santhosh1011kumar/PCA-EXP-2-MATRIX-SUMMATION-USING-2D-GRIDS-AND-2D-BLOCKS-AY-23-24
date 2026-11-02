@@ -320,9 +320,12 @@ CHECK(cudaDeviceSynchronize());
 
 ## OUTPUT:
 INTEGER (int) : 
+
 <img width="885" height="197" alt="Screenshot 2026-11-02 143813" src="https://github.com/user-attachments/assets/58d38d76-fa3d-45fc-9204-a3d2fc531efe" />
 
- FLOAT (float) : 
+
+FLOAT (float) : 
+
  <img width="947" height="202" alt="Screenshot 2026-11-02 143902" src="https://github.com/user-attachments/assets/a78b293a-46f6-4a31-9ea5-124e4a005bd2" />
 
 
